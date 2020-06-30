@@ -8,25 +8,23 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\Rafael\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\Rafae\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Rafael\\Desktop\\BGTracker\\BGTracker.API\\BGTracker.API.csproj",
+      "projectUniqueName": "C:\\Users\\Rafae\\Desktop\\BGTracker\\BGTracker.API\\BGTracker.API.csproj",
       "projectName": "BGTracker.API",
-      "projectPath": "C:\\Users\\Rafael\\Desktop\\BGTracker\\BGTracker.API\\BGTracker.API.csproj",
-      "packagesPath": "C:\\Users\\Rafael\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Rafael\\Desktop\\BGTracker\\BGTracker.API\\obj\\",
+      "projectPath": "C:\\Users\\Rafae\\Desktop\\BGTracker\\BGTracker.API\\BGTracker.API.csproj",
+      "packagesPath": "C:\\Users\\Rafae\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Rafae\\Desktop\\BGTracker\\BGTracker.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\",
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "C:\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\Rafael\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Rafae\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
